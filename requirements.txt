@@ -1,0 +1,26 @@
+# Interfaz
+gradio==6.9.0
+
+# PDF
+pypdf==4.2.0
+
+# Embeddings
+sentence-transformers==3.0.1
+
+# Vector store
+faiss-cpu==1.8.0
+
+# LLM
+google-genai==1.65.0
+
+# Evaluación RAGAS
+ragas
+langchain-google-genai
+datasets
+
+# Utilidades
+numpy==2.4.2
+python-dotenv==1.2.2
+requests==2.32.5
+httpx==0.28.1
+tqdm==4.66.5
